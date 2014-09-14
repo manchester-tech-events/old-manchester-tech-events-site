@@ -6,7 +6,7 @@ There are some great lists out there already. There is [Andrew Disley’s Mandig
 
 ## Get Involved
 
-There are a few issues in to show what needs doing. If you’d like to help then open a [pull request](https://help.github.com/articles/using-pull-requests) to discuss your changes.
+There are a few issues in to show what needs doing. If you’d like to help then open a pull request ([what’s that?](https://help.github.com/articles/using-pull-requests)) to discuss your changes.
 
 ## Website
 
