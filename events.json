@@ -1,56 +1,51 @@
 {
-  
-Error: Parse error on line 1:
-{  events: [    {    
----^
-Expecting 'STRING', '}'
-events: [
+  "events": [
     {
-      name: 'XP Manchester',
-      site: 'http://xpmanchester.wordpress.com/'
-    }
+      "name": "XP Manchester",
+      "site": "http://xpmanchester.wordpress.com/"
+    },
     {
-      name: 'manc.js',
-      site: 'http://mancjs.com/'
-    }
+      "name": "manc.js",
+      "site": "http://mancjs.com/"
+    },
     {
-      name: 'Manchester Raspberry Jam',
-      site: 'http://mcrraspjam.org.uk/'
-    }
+      "name": "Manchester Raspberry Jam",
+      "site": "http://mcrraspjam.org.uk/"
+    },
     {
-      name: 'ManJUG',
-      description: 'Manchester Java Users’ Group',
-      site: 'http://www.manjug.org/'
-    }
+      "name": "ManJUG",
+      "description": "Manchester Java Users’ Group",
+      "site": "http://www.manjug.org/"
+    },
     {
-      name: 'nwrug',
-      alias: 'North West Ruby User Group',
-      site: 'http://nwrug.org/'
-    }
+      "name": "nwrug",
+      "alias": "North West Ruby User Group",
+      "site": "http://nwrug.org/"
+    },
     {
-      name: 'ThoughtWorks Manchester GeekNights',
-      site: 'http://www.superdevs.com/groups/manchester-geek-nights'
-    }
+      "name": "ThoughtWorks Manchester GeekNights",
+      "site": "http://www.superdevs.com/groups/manchester-geek-nights"
+    },
     {
-      name: 'Manchester Web Performance Group',
-      site: 'http://www.meetup.com/Manchester-Web-Performance-Group/'
-    }
+      "name": "Manchester Web Performance Group",
+      "site": "http://www.meetup.com/Manchester-Web-Performance-Group/"
+    },
     {
-      name: 'Northern Digitals',
-      alias: 'BLAB',
-      site: 'http://www.meetup.com/northerndigitals/'
-    }
+      "name": "Northern Digitals",
+      "alias": "BLAB",
+      "site": "http://www.meetup.com/northerndigitals/"
+    },
     {
-      name: 'DevOps Manchester',
-      site: 'http://www.devopsmanchester.co.uk/'
-    }
+      "name": "DevOps Manchester",
+      "site": "http://www.devopsmanchester.co.uk/"
+    },
     {
-      name: 'Manchester Codejo',
-      site: 'http://www.manchester-codejo.com/'
-    }
+      "name": "Manchester Codejo",
+      "site": "http://www.manchester-codejo.com/"
+    },
     {
-      name: 'Lean Startup Manchester',
-      site: 'http://www.leanstartupmanchester.co.uk/'
+      "name": "Lean Startup Manchester",
+      "site": "http://www.leanstartupmanchester.co.uk/"
     }
   ]
 }
