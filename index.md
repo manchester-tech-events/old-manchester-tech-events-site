@@ -4,7 +4,7 @@ description: Manchester Tech Events Blog - Somewhere to keep a list of technical
 title: Manchester Tech Events Blog
 ---
 
-## One off events
+## Upcoming one off events
 
 **Women in Technology Event** / https://www.eventbrite.co.uk/e/women-in-technology-event-hosted-by-mortimer-spinks-tickets-12722205459  
 http://www.eventbrite.co.uk/o/mortimer-spinks-6180260093?s=28012617
