@@ -4,7 +4,23 @@ description: Manchester Tech Events Blog - Somewhere to keep a list of technical
 title: Manchester Tech Events Blog
 ---
 
+## One off events
+
+**Women in Technology Event** / https://www.eventbrite.co.uk/e/women-in-technology-event-hosted-by-mortimer-spinks-tickets-12722205459  
+http://www.eventbrite.co.uk/o/mortimer-spinks-6180260093?s=28012617
+
 ## Tech Groups
+
+**Manchester Tech Nights** / http://manchestertechnights.org/  
+http://twitter.com/mcrtechnights  
+Michael Hall: [michael@manchestertechnights.org](mailto:michael@manchestertechnights.org) / [@mikehallhn](https://twitter.com/mikehallhn)  
+Chris Northwood: [chris@pling.org.uk](mailto:chris@pling.org.uk) / [@cnorthwood](https://twitter.com/cnorthwood)
+
+**SheSays MCR** / https://www.facebook.com/SheSaysMCR  
+https://twitter.com/SheSaysMCR
+
+**Ladies that UX MCR** / http://www.ladiesthatux.com/  
+Lizzie Dyson and Georgie Bottomley: hello(at)ladiesthatux.com
 
 **XPManchester** / http://xpmanchester.wordpress.com/  
 https://twitter.com/XPManchester  
