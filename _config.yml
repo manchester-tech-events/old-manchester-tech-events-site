@@ -1,0 +1,6 @@
+name: Manchester Tech Events
+markdown: redcarpet
+redcarpet:
+  extensions: ["autolink"]
+description: Manchester Tech Events Blog - Somewhere to keep a list of technical meetups etc that happen in Manchester to make them more discoverable.
+highlighter: pygments
