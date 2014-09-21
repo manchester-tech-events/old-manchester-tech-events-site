@@ -11,6 +11,9 @@ http://www.eventbrite.co.uk/o/mortimer-spinks-6180260093?s=28012617
 
 ## Tech Groups
 
+**Dribbble Meetup MCR** / http://pixelcodeuk.github.io/dribbblemcr/  
+https://twitter.com/dribbblemcr  
+
 **Manchester Tech Nights** / http://manchestertechnights.org/  
 http://twitter.com/mcrtechnights  
 Michael Hall: [michael@manchestertechnights.org](mailto:michael@manchestertechnights.org) / [@mikehallhn](https://twitter.com/mikehallhn)  
