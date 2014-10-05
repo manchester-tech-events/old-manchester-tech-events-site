@@ -11,6 +11,10 @@ http://www.eventbrite.co.uk/o/mortimer-spinks-6180260093?s=28012617
 
 ## Tech Groups
 
+**Manchester Tech Book Club** / https://groups.google.com/forum/#!forum/manchester-tech-book-club  
+https://twitter.com/techbookclubmcr  
+Jim Jeffries: https://twitter.com/jjeffries1
+
 **Dribbble Meetup MCR** / http://pixelcodeuk.github.io/dribbblemcr/  
 https://twitter.com/dribbblemcr  
 
