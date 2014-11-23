@@ -27,6 +27,7 @@ Chris Northwood: [chris@pling.org.uk](mailto:chris@pling.org.uk) / [@cnorthwood]
 https://twitter.com/SheSaysMCR
 
 **Ladies that UX MCR** / http://www.ladiesthatux.com/  
+https://twitter.com/LadiesthatUXMCR  
 Lizzie Dyson and Georgie Bottomley: hello(at)ladiesthatux.com
 
 **XPManchester** / http://xpmanchester.wordpress.com/  
